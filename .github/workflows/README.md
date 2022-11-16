@@ -1,7 +1,8 @@
 # SM64-JS
 Super Mario 64 ported to JavaScript and WebAssembly via Emscripten.  
 ## REPL Takedown
-I was forced to take down the [REPL for this project](https://replit.com/@jscraft/sm64?v=1) due to copyright issues. I have uploaded it to GitHub so you can enjoy this a bit longer.  
+I was forced to take down the [REPL for this project](https://replit.com/@jscraft/sm64?v=1) due to copyright issues. I have uploaded it to GitHub so you can enjoy this a bit longer.  PS. i stole this from @jscraft. im just uploading it to github because my school keeps fucking the wifi by blocking replit.
+also using a proxy would not work for me because it just shows text showing my screen size. it doesnt start the game
 # Setup Manually
 ## Play using Python2 or Python3
 ```bash
